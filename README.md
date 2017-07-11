@@ -1,1 +1,1 @@
-初始化 工具类 项目，由 svn://172.16.86.44/Erp/Codes/Trunk/Java/FFCloud/ffcloud-utils
+工具类 项目
